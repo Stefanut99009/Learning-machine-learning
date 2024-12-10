@@ -1,0 +1,4 @@
+to start scikit-learn you use the next commands:
+1.cd (if you forget)
+2.source sklearn-env/bin/activate
+That's all
